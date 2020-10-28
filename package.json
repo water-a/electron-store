@@ -34,7 +34,7 @@
 		"save"
 	],
 	"dependencies": {
-		"conf": "^7.1.2",
+		"conf": "git+https://github.com/water-a/conf.git",
 		"type-fest": "^0.16.0"
 	},
 	"devDependencies": {
